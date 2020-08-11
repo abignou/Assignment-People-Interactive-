@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="msg_decline">Member declined</string>
+    <string name="msg_accepted">Member accepted</string>
+
+</resources>

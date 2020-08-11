@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profile_image_size">250dp</dimen>
+    <dimen name="tv_minmargin">10dp</dimen>
+    <dimen name="iv_margin">20dp</dimen>
+
+</resources>
